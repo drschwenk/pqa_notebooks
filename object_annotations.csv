@@ -118,7 +118,7 @@ fireplace,1,0,0,0,0
 fireplug,1,0,0,0,0
 fish,1,0,0,0,0
 flag,1,1,0,0,0
-floor,1,0,1,0,0
+floor,0,0,1,0,0
 fluorescent,1,0,0,0,0
 food,1,1,0,0,0
 footbridge,0,0,0,0,0
